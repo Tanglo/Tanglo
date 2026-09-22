@@ -11,11 +11,12 @@ Health and medicine are my industry, and I've worked in R&D, government regulati
 ### I'm currently working on
 The last 10 years has been government and commerical work, so not visible in the public domain.  I currently apply software engineering across three commerical ventures:
 * [Platypus MedTech Consulting](https://platypusmedtech.com.au) - Supporting medtech startups and SMEs with their engineering, quality management and regulatory affairs.  We have a particular specialty in software systems and digital health.
-* [Biomedical Performance Technologies (BPT)](https://github.com/Biomedical-Performance-Technologies) - Instrumentation, measurement and data systems for motorsport, with a particular focus on integrating physioloigcal and biometric data.
 * Method Quality - Software to help medtech startups and SMEs manage their risk and regulatory obligations.
+* Tools and other bits and pieces relating to games that I am playing at the moment.
 
 ### Ask me about
 * Applying engineering, software and technology to medicine, sport and human performance.
+* Research translation.
 * Risk management in medical technology.
 * SDLC for medical technology.
 * Quality management, including for software engineering and SDLC.
